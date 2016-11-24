@@ -81,12 +81,11 @@ img {
   html {
     font-size: 110%;
     line-height: 1.4;
-    margin-bottom: 1.4rem;
   }
 
-  .imageflex {
+  .imagelfex {
     display: block;
-    margin-left: 0;
+    margin-left: auto;
   }
 
   .card-body {
